@@ -15,6 +15,23 @@ module.exports = {
           '/compendium/calendario',
           '/compendium/deuses',
           '/compendium/dragoes',
+          '/compendium/diarios_alexander',
+          '/compendium/diarios_azulth'
+        ]
+      },
+      {
+        title: 'Personagens',
+        collapsable: true,
+        children: [
+          '/personagens/comitiva_escarlate'
+        ]
+      },
+      {
+        title: 'Contos não contados',
+        collapsable: true,
+        children: [
+          '/contos/despertar',
+          '/contos/dneeth'
         ]
       },
       {
