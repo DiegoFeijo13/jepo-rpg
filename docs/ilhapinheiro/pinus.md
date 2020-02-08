@@ -4,7 +4,7 @@ title: Pinus - A Ilha Pinheiro
 sidebar_label: Pinus
 ---
 # Pinus - A Ilha Pinheiro
-![Docas de Pinus](../../assets/img/Docas_Pinus_k.jpg)
+<!-- ![Docas de Pinus](../../assets/img/Docas_Pinus_k.jpg) -->
 > **Regente:** Lou Devole, humano, 85 anos.
 > Devole foi escolhido por Annain para reger Pinus, a capital do reino, por ser filho direto de Noer Dhakar, o mago adivinho. Sua vida, desde os sete anos foi apenas obedecer a ordens diretas dos deuses para manter a cidade viva. Há 78 anos ele rege a cidade, e é conhecido por todos como “A voz de An’n”.
 

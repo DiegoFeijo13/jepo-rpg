@@ -1,56 +1,49 @@
 module.exports = {
   title: 'Jepo RPG',
-  description: 'Um cenário para RPGs de mesa criado de jogadores para jogadores.',
-  configureWebpack: {
-    resolve: {
-      alias: {
-        '@imgs': '/assets/img'
-      }
-    }
-  },
+  description: 'Um cenário para RPGs de mesa criado de jogadores para jogadores.',  
   themeConfig: {
-    logo: '/assets/img/jeporpg-hollow.jpeg',    
+    logo: '/jeporpg-hollow.jpeg',    
     nav: [
       { text: 'Home', link: '/' },      
-      { text: 'Calendário', link: '/docs/calendario' },
+      { text: 'Calendário', link: '/calendario' },
     ],
     sidebar: [      
       {
         title: 'Compendium',
         collapsable: true,
         children: [
-          '/docs/compendium/calendario',
-          '/docs/compendium/deuses',
-          '/docs/compendium/dragoes',
+          '/compendium/calendario',
+          '/compendium/deuses',
+          '/compendium/dragoes',
         ]
       },
       {
         title: 'Goniar',
         collapsable: true,
         children: [
-          '/docs/goniar/anoehin',
-          '/docs/goniar/skah',
+          '/goniar/anoehin',
+          '/goniar/skah',
         ]
       },
       {
         title: 'Ilha Pinheiro',
         collapsable: true,
         children: [
-          '/docs/ilhapinheiro/pinus',          
+          '/ilhapinheiro/pinus',          
         ]
       },
       {
         title: 'Toran',
         collapsable: true,
         children: [
-          '/docs/toran/alendar',          
+          '/toran/alendar',          
         ]
       },
       {
         title: 'Tubniar',
         collapsable: true,
         children: [
-          '/docs/tubniar/ludwig',          
+          '/tubniar/ludwig',          
         ]
       },
     ]

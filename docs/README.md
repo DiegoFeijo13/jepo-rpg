@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /assets/img/jeporpg.jpeg
+heroImage: /jeporpg.jpeg
 actionText: Compendium →
-actionLink: /docs/compendium/dragoes
+actionLink: /compendium/dragoes
 description: Um cenário para RPGs de mesa criado de jogadores para jogadores.
 features:
 - title: Reinos
@@ -17,5 +17,5 @@ footer: Comitiva Escarlate 2020
 ## Olá, aventureiros
 "O sol deixava claro a quem quisesse saber que aquela era uma terra hostil. Quem um dia havia ferido a terra, pensando dela colher seu sustento, estava fadado a um castigo mortal: viver uma vida inteira a farelos e sobras. Não eram raros os corpos dos pecadores que jaziam pelo solo, e até mesmo os abutres rejeitavam-nos de ódio."
 <div style="text-align:center">
-![Lou Devole](/assets/img/lou_devole.jpg)
+![Lou Devole](/lou_devole.jpg)
 </div>
