@@ -2,7 +2,7 @@
 title: Deuses
 ---
 # Deuses Maiores
-## AG
+## Ag
 *"O Supremo"*  
 O criador de tudo.  
  **Imparcial**  
@@ -15,7 +15,7 @@ Seu símbolo sagrado é um elmo fechado, revestido de prata, na forma dos antigo
 * Preserva e respeita a existência dos deuses maiores;
 * Intolerante com desrespeito ao seu nome. 
 
-## NAHN
+## Nahn
 *"Corpo de Solaris", "Mãe Terra"*  
 Deusa da terra, das florestas e da lavoura.  
 **Bondosa**  
@@ -30,7 +30,7 @@ Nahn tem como símbolo sagrado um cajado de aproximadamente 1 metro de comprimen
 * Comungam uma vez ao dia com o corpo de sua deusa.
 * Preservam a natureza e a vida de Nahn. 
 
-## ONAINAHABAC'K
+## Onainahabac'k
 *"O Velo do Tempo", "O Senhor das Condições"*  
 Deus do tempo e espaço.  
 **Imparcial**  
@@ -43,7 +43,7 @@ Seu símbolo sagrado foi, por muito tempo, representado por um livro aberto sobr
 * Onainahabac'k é o único que pode mudar a linha dos acontecimentos.
 * Respeite a mudança de ciclo como uma bênção do Velo do Tempo. 
 
-## GONAR
+## Gonar
 *"O Lanceiro da Justiça", "O Paladino da Alvorada"*  
 Deus da Ordem, lei e sociedade.  
 **Leal e Bondoso**  
@@ -56,7 +56,7 @@ Seu símbolo sagrado não poderia ser outro senão sua lança, "Hayfor" como os 
 * Atento ao equilíbrio do mundo, mas incapaz quanto ao equilíbrio do panteão;
 * Tímido quando se relaciona com mortais. 
 
-## TUTT'ANNAR
+## Tutt'annar
 *"O Impiedoso", "O Cavaleiro Escarlate"*  
 Deus do Caos, da morte e entropia  
 **Mal e Caótico**  
@@ -69,7 +69,7 @@ Seu símbolo sagrado é uma manopla de ferro negro, feita por antigos sátiros d
 * Preza pelo melhor para o mundo mortal sempre de forma destrutiva;
 * Sempre tentando fazer negociação que lhe dê vantagens com mortais e deuses.
 
-## ALGORON
+## Algoron
 *"O Machado de Sangue", "O Único"*  
 Deus da Guerra  
 **Mal e Caótico**  
@@ -82,7 +82,7 @@ Seu símbolo sagrado é um machado de guerra de duas mãos, afiado como a ravina
 * Xenofóbico
 * Quer a conquista do mundo humano, sem delongas. 
  
-## NAHAG IL'DRACO
+## Nahag il'Draco
 *"Senhor dos Dragões", "O Lorde Dourado"*  
 Deus dos Dragões  
 **Imparcial**  
@@ -95,7 +95,7 @@ Seu símbolo sagrado é um Orbe, do tamanho da palma de uma mão humana, de cor 
 * Sempre em sua forma dracônica, quando em forma humanóide assume a postura de um Draconato;
 * Fala todas as línguas e sempre sem paciência, terrível quando se sente ameaçado. 
  
-## ANNAIN
+## Annain
 *"Donzela de Pinus", "A Matreira"*  
 Deusa-Patrona de Pinus, deusa dos humanos  
 **Bondosa**  
@@ -108,7 +108,7 @@ Tem como símbolo sagrado um pingente banhado a ouro branco, com um fino adorno 
 * Aparência bela, gostando de mostrar sua forma humana de modo extravagante;
 * Sempre bem humorada, quando não está no seu oficio de Deusa anda pelas cidades como civil disfarçada. 
  
-## MALTHÎS
+## Malthîs
 *“A Madame dos Ventos”, “A Feiticeira dos 12 Ventos”*  
 Deusa dos Ventos  
 **Imparcial**  
@@ -121,7 +121,7 @@ Seu símbolo sagrado é uma varinha com um pouco mais de vinte centímetros feit
 * Trata o Caos e a Ordem com as mesmas medidas, pois os dois necessitam de sua ajuda
 * Fechada, ríspida, é uma deusa que sabe dar e tirar, se necessário.
  
-## OHMNOS
+## Ohmnos
 *“O Dono dos Mares”, “O Rei Azul”*  
 Deus dos mares  
 **Imparcial**  
@@ -134,7 +134,7 @@ Seu símbolo sagrado é uma coroa feita de ouro maciço. Pérolas anis estão cr
 * A Ordem tem o apoio do Dono dos Mares, mas o Caos é quem melhor sabe reconhece-lo soberano
 * Alegre quando necessário, rude quando provocado, a cólera de Ohmnos irá limpar os infiéis das costas. 
 
-## TALLANOR
+## Tallanor
 *“O Senhor do Escuro”, “A Sombra Maior”*  
 Deus da Noite, da escuridão, protetor dos ladinos  
 **Maligno**  
@@ -153,7 +153,7 @@ Seu símbolo sagrado é um punhal de lâmina encurvada. Pequenas jóias escuras 
 * Abrace a escuridão, reconhecendo que o Caos prevalecerá sob a Ordem
 * Não temerás a sombra, mas reconhecerás que a escuridão é mais forte que você. 
  
-## ERAN
+## Eran
 *“Regente do Dia”, “O Filho da Luz”*  
 Deus dos Dias, do nascer de um novo dia, da luz  
 **Bondoso**  
